@@ -1,8 +1,8 @@
 # Simple Logistic Regression
 
-Denne fil indholder simple_regression.ipynb. Denne implementation er løsning til “Part 2: Simple Logistic Regression Model”.
-Derudover det nødevendig at at have disse file på din maskine, som finds i mappen:
-For at bruge vocabulary10000, skal det omdøes til vocabulary_10000.csv. Jeg har fåret et probelm under pushin til respositoren. 
+This file contains simple_regression.ipynb. This implementation is the solution for “Part 2: Simple Logistic Regression Model”.
+In addition, you need to have these files on your machine, which are found in the folder:
+You have to use vocabulary_10000.csv.zip which contains the 10000 most used words from cleaned_dataset_FULL.csv. Please unzip it and put it in your project.
 vocabulary_10000.csv
 cleaned_bbc_articles_FULL.csv
 
